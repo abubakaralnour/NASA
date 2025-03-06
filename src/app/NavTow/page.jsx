@@ -11,7 +11,7 @@ const NavTow = () => {
         <div><img className='h-20 w-20 rounded-full' src='https://www.nasa.gov/wp-content/uploads/2023/10/54193905419-720542de4f-o.jpg?resize=150,150'  /></div>
         <h3>News Conference</h3>
         <p className='text-wrap: wrap w-80'>
-        NASA’s SpaceX Crew-9 pre-departure news conference with NASA astronauts Nick Hague, Suni Williams, and Butch Wilmore</p>
+        NASA’s SpaceX Crew-8 pre-departure news conference with NASA astronauts Nick Hague, Suni Williams, and Butch Wilmore</p>
     </div></div>
   )
 }
