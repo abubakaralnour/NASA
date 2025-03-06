@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+video {
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;  /* Ensure it covers the entire container */
+  }
+
+  .app{
+    overflow-x: hidden;
+  }
+
+.search{
+  height: 3px;
+}
